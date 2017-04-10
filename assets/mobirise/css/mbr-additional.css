@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -494,6 +497,43 @@ h6,
 #header3-8 .mbr-section-title,
 #header3-8 .mbr-section-subtitle {
   text-align: center;
+}
+#pricing-table2-b .mbr-plan-header,
+#pricing-table2-b .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-b ul,
+#pricing-table2-b .mbr-plan-title,
+#pricing-table2-b .mbr-price-value,
+#pricing-table2-b .mbr-price-figure,
+#pricing-table2-b .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-b .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-b .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#msg-box2-c .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-c .mbr-section-subtitle {
+  color: #a0a0a0;
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-d .form-control-label {
+  color: #232323;
+}
+#form1-d SMALL {
+  font-family: 'Open Sans', sans-serif;
+}
+#form1-d .mbr-section-title {
+  color: #f07d00;
+}
+#social-buttons4-e .mbr-section-title,
+#social-buttons4-e .btn-social {
+  color: #fff;
 }
 #menu-2 .hide-buttons .nav-btn {
   display: none !important;
