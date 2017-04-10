@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">NOSOTROS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-1\">GALERÍA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">ACTIVIDADES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-b\">PRECIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-c\">HORARIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-d\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-5\">NOSOTROS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery3-9\">GALERÍA</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">ACTIVIDADES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-b\">PRECIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box2-c\">HORARIOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-d\">CONTACTO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -392,7 +392,7 @@
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery3-9",
@@ -453,7 +453,7 @@
           "period1": "/mo.",
           "description1": "",
           "list1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">INSCRIBIRME</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">INSCRIBIRME</a>",
           "label2": "HOT!",
           "title2": "TRIMESTRAL",
           "subtitle2": "",
@@ -462,7 +462,7 @@
           "period2": "/mo.",
           "description2": "",
           "list2": "<ul class=\"list-group list-group-flush\"></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">INSCRIBIRME</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">INSCRIBIRME</a>",
           "label3": "HOT!",
           "title3": "MENSUAL",
           "subtitle3": "",
@@ -471,7 +471,7 @@
           "period3": "/mo.",
           "description3": "",
           "list3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">INSCRIBIRME<br></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#top\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">INSCRIBIRME<br></a>",
           "label4": "HOT!",
           "title4": "ULTIMATE",
           "subtitle4": "Description",
