@@ -582,7 +582,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-title": {
-              "color": "#f07d00"
+              "color": "#f07d00",
+              "font-size": "32px"
             }
           }
         },
